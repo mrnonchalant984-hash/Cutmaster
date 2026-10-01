@@ -1,0 +1,1 @@
+export const whatsapp="09115936466";
